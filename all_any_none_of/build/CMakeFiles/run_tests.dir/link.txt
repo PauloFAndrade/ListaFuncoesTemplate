@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall   CMakeFiles/run_tests.dir/mnt/c/Users/Sucrilhos/Desktop/fmc1/trabalho-02-lista-funcoes-template-sobre-ranges-PauloFAndrade/test_manager/src/test_manager.cpp.o CMakeFiles/run_tests.dir/src/main.cpp.o  -o run_tests 

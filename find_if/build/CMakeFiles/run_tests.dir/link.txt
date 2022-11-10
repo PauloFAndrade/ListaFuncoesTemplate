@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall   CMakeFiles/run_tests.dir/mnt/c/Users/Sucrilhos/trabalho02/test_manager/src/test_manager.cpp.o CMakeFiles/run_tests.dir/src/main.cpp.o  -o run_tests 
